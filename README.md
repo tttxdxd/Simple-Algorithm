@@ -1,5 +1,6 @@
 # Simple-Algorithm
 #Using the c++ deductive algorithm
+<h6>basic sort</h6>
 <ol>
   <li>
     selection sort
