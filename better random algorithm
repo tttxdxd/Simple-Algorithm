@@ -1,4 +1,4 @@
-//better random ablgorithm 更好的随机算法
+//better random algorithm 更好的随机算法
 //在一个大小为N的数组中选择n个随机的位置（N>n&&n>0）保证随机算法结束之后所得的数组在N！种可能中且概率为1/N!
 
 int N=?;
