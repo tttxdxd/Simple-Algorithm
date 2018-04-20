@@ -1,17 +1,8 @@
 # Simple-Algorithm
 #Using the c++ deductive algorithm
-<h6>basic sort</h6>
-<ol>
-  <li>
-    selection sort
-  </li>
-  <li>
-    insertion sort
-  </li>
-  <li>
-    bubble sort
-  </li>
-  <li>
-    shell sort
-  </li>
-</ol>
+## basic sort
+1. selection sort
+2. insertion sort
+3. bubble sort
+4. shell sort
+5. quicksort
